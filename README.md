@@ -1,2 +1,4 @@
 # proyecto-one-byv
-aqui encontraremos el recorrido de aprendizaje
+<h1>proyecto-one-byv</h1>
+- Estado del proyecto : en construcción
+
